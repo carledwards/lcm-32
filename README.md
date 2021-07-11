@@ -11,5 +11,8 @@ The LCM-32 is a low cost CMOS 6502 Microcontroller created in 1986 by Matt Gilli
 ### Bottom View
 ![title](images/LCM32-PCBoard-Bottom.png)
 
+### Memory Map
+![title](images/LCM32-MemoryMap.png)
+
 ## Publications
 [1987 Byte Magazine](marketing/1987_03_BYTE_12-03_Educational_Computing_p40.pdf)
